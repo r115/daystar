@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "daystar-frontend",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "Rethinking the daystar university website",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Bernard Nandwa <hello@nandwa.com>",
   "dependencies": {
     "gatsby": "^2.23.3",
     "gatsby-image": "^2.4.7",
